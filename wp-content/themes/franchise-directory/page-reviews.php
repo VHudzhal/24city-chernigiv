@@ -1,0 +1,2 @@
+<?php
+echo "Reviews page";
