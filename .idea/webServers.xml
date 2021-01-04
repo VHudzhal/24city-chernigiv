@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="0a2d0b0f-7862-4217-bd41-7715a6a2290f" name="24citycn" url="http://q95608mp.beget.tech">
+        <fileTransfer host="q95608mp.beget.tech" port="21" rootFolder="/24city.cn.ua/public_html">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,39 @@
+@media only screen and (min-width: 75px) {
+        
+    .paypal-button-container {
+        min-width: 0px;
+        max-width: 100%;
+        font-size: 13px;
+    }
+}
+@media only screen and (min-width: 150px) {
+        
+    .paypal-button-container {
+        min-width: 0px;
+        max-width: 100%;
+        font-size: 13px;
+    }
+}
+@media only screen and (min-width: 200px) {
+        
+    .paypal-button-container {
+        min-width: 0px;
+        max-width: 100%;
+        font-size: 13px;
+    }
+}
+@media only screen and (min-width: 300px) {
+        
+    .paypal-button-container {
+        min-width: 0px;
+        max-width: 100%;
+        font-size: 13px;
+    }
+}
+@media only screen and (min-width: 500px) {
+        
+    .paypal-button-container {
+        min-width: 0px;
+        max-width: 100%;
+        font-size: 13px;
+    }
